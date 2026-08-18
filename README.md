@@ -15,8 +15,10 @@
 
 Let's connect and build the future together! 🌟
 
-[![Linkedin: Paul](https://img.shields.io/badge/-Paul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-paul-saac-6790b736a/)](https://www.linkedin.com/in/john-paul-saac-6790b736a/)
-
+[![Linkedin: Paul](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-paul-saac-6790b736a/)](https://www.linkedin.com/in/john-paul-saac-6790b736a/)
+<a href="https://github.com/paul-saac" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@paul--saac-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/paul.nyek)](https://www.instagram.com/paul.nyek)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:johnpaul.saac.legaspi@gmail.com)
 
 
 
