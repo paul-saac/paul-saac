@@ -1,14 +1,8 @@
 [Banner Image](image/Banner.png)
 
-## Hi there! I'm Ghazi Khan, a passionate Staff Software Engineer @ Tech9.
+## Hi there! I'm John Paul,...
 
-With over a decade of experience, I've honed my skills in crafting top-notch proprietary enterprise software products. My journey is all about utilizing diverse technologies to design, develop, and deploy enterprise-class solutions while gaining deep insights into customers' needs and product usage.
-
-My tech toolkit includes NextJS, React, React Native, NodeJS, Redux/RTK Toolkit, and Angular. I thrive in Agile environments, where I've spent more than 10 years crafting accessible UIs for web applications, emphasizing iterations, continuous integration, and unwavering quality.
-
-Industry Authentication standards like oAuth2? Yep, I've got you covered. Incorporating Authorization aspects into the UI framework is just another day at the office for me.
-
-When it comes to problem-solving, my Agile mindset shines through, adapting seamlessly to various methodologies. My knack for breaking down complex technical matters into clear, digestible explanations lets me bridge the gap between tech and business effortlessly.
+I'm a 4th year BSIT student passionate about building clean, functional, and user-friendly digital experiences. Over the past 4+ years, I've been designing interfaces and developing websites, bridging the gap between how things look and how they actually work.
 
 Let's connect and build the future together! 
 
